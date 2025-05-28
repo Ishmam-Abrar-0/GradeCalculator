@@ -1,4 +1,3 @@
-# student_grade_calculator_oop.py
 
 class Student:
     def __init__(self, name, student_id, grade_level):
